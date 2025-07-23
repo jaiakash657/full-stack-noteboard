@@ -1,5 +1,5 @@
 {
-  "name": "sample",
+  "name": "full-stack-noteboard",
   "version": "1.0.0",
   "description": "",
   "main": "src/server.js",
@@ -19,7 +19,8 @@
     "env": "^0.0.2",
     "express": "^4.18.2",
     "i": "^0.3.7",
-    "mongoose": "^8.16.4"
+    "mongoose": "^8.16.4",
+    "sample": "file:.."
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
